@@ -1,10 +1,22 @@
 {
   "files": {
-    "main.js": "/wordle_archive_tmp/static/js/main.fef22eb7.js",
-    "index.html": "/wordle_archive_tmp/index.html",
-    "main.fef22eb7.js.map": "/wordle_archive_tmp/static/js/main.fef22eb7.js.map"
+    "main.css": "/wordle_archive/static/css/main.a6969ef4.css",
+    "main.js": "/wordle_archive/static/js/main.876d232d.js",
+    "static/media/Cross.png": "/wordle_archive/static/media/Cross.cbf77228e847522eff11.png",
+    "static/media/Success.png": "/wordle_archive/static/media/Success.df533be8f86a57bc5946.png",
+    "static/media/Ranade-Variable.ttf": "/wordle_archive/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
+    "static/media/WIP3.png": "/wordle_archive/static/media/WIP3.184cd6c93fd4f1cddc30.png",
+    "index.html": "/wordle_archive/index.html",
+    "static/media/Github.svg": "/wordle_archive/static/media/Github.d27679b8d9e85b12213b6a7e8501b302.svg",
+    "static/media/Settings.svg": "/wordle_archive/static/media/Settings.f331175cf3c7be8e472616cfa44ad022.svg",
+    "static/media/Share.svg": "/wordle_archive/static/media/Share.8a4ef734c4cb4b7ad0b5620e895d6156.svg",
+    "static/media/Info.svg": "/wordle_archive/static/media/Info.25fc81bdb1513b3bbdd73954d273f9a0.svg",
+    "static/media/Close.svg": "/wordle_archive/static/media/Close.9b76c69e64ab581876fc79bad92c06d6.svg",
+    "main.a6969ef4.css.map": "/wordle_archive/static/css/main.a6969ef4.css.map",
+    "main.876d232d.js.map": "/wordle_archive/static/js/main.876d232d.js.map"
   },
   "entrypoints": [
-    "static/js/main.fef22eb7.js"
+    "static/css/main.a6969ef4.css",
+    "static/js/main.876d232d.js"
   ]
 }
